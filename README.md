@@ -7,3 +7,5 @@ Make a habit from today
 4. The Setup can be failed. Deal with it. Nothing is black and white. Binary world would never existed. maintain good Strike rate.
 5. you took 3 trades. not at all over trading. But you give away 13 points. aane ko to 8 point bas karta. work on it.
 6. Zero is Perfectly fine. If some trade is achieving Highs, let it with sl on entry. 
+
+![Project Screenshot](Data_reversed_Setup_failure.png)
